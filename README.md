@@ -5,7 +5,7 @@ This is a **simple and interactive Tic-Tac-Toe game** built using **HTML, CSS, a
 ## 🔹 Features  
 ✅ Two-player mode (X vs O).
 ✅ Detects winner or draw.  
-✅ Reset button to restart the game  
+✅ Reset button to restart the game.  
 ✅ Responsive and user-friendly design  
 
 ## 🛠️ Technologies Used  
