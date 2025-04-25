@@ -11,7 +11,7 @@ This is a **simple and interactive Tic-Tac-Toe game** built using **HTML, CSS, a
 ## 🛠️ Technologies Used  
 - **HTML** → Structure of the game.  
 - **CSS** → Styling and layout.  
-- **JavaScript** → Game logic and interactivity  
+- **JavaScript** → Game logic and interactivity.  
 
 
 ## 🚀 Live Demo  
