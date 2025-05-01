@@ -426,5 +426,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // Initialize the game
+    
     init();
+    
 });
