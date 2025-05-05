@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
     // DOM Elements
+    
     const cells = document.querySelectorAll(".cell");
     const statusText = document.getElementById("status");
     const resetButton = document.getElementById("reset");
@@ -18,7 +19,9 @@ document.addEventListener("DOMContentLoaded", () => {
     const scoreDraw = document.getElementById("score-draw");
     const currentYearElement = document.getElementById("current-year");
 
+
     // Game state
+    
     let board = ["", "", "", "", "", "", "", "", ""];
     let currentPlayer = "X";
     let running = true;
