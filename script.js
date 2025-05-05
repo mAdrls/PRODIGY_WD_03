@@ -408,22 +408,26 @@ document.addEventListener("DOMContentLoaded", () => {
             setTimeout(makeAiMove, 500);
         }
     }
+    
 
     function resetScores() {
         scores = { X: 0, O: 0, draw: 0 };
         updateScores();
         resetGame();
     }
+    
 
     function playAgain() {
         hideModal();
         resetGame();
     }
+    
 
     function toggleTheme() {
         document.body.classList.toggle("dark-theme");
         // You can add more theme toggling logic here
     }
+    
 
     // Initialize the game
     
